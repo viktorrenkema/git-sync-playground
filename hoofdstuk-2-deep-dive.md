@@ -15,7 +15,7 @@ layout:
     visible: true
 ---
 
-# Hoofdstuk 2 - Deep dive
+# Hoofdstuk 2.0 - Deep dive
 
 Git Sync allows technical teams to synchronize GitHub or GitLab repositories with GitBook and turn Markdown files into beautiful, user-friendly docs. Edit directly in GitBook’s powerful editor while keeping content synchronized with your codebase on GitHub or GitLab.
 
