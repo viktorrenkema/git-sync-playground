@@ -1,5 +1,16 @@
 ---
 description: Samenvatting over Git Sync
+layout:
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: false
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Hoofdstuk 1 - Git Sync
