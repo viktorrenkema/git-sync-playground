@@ -2,6 +2,17 @@
 description: >-
   Synchronize your GitBook content with GitHub or GitLab with GitBook's
   bi-directional integration.
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Hoofdstuk 2 - Deep dive
