@@ -1,6 +1,6 @@
 ---
 description: >-
-  Synchronize your GitBook content with GitHub or GitLab with GitBook's
+  Update to description - Synchronize your GitBook content with GitHub or GitLab with GitBook's
   bi-directional integration.
 layout:
   title:
