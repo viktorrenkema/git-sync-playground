@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [Hoofdstuk 1 - Git Sync](README.md)
