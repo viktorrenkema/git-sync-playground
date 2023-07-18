@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# Hoofdstuk 1 - Git Sync
+# Hoofdstuk 0.1 - Git Sync
 
 Hier is wat content geschreven
 
