@@ -1,29 +1,22 @@
 ---
-description: Samenvatting over Git Sync
+description: A full rundown of our latest releases, improvements and fixes in GitBook
 layout:
+  width: wide
   title:
     visible: true
   description:
     visible: true
   tableOfContents:
-    visible: false
+    visible: true
   outline:
     visible: true
   pagination:
     visible: true
+  metadata:
+    visible: true
 ---
 
-# This space uses Git Sync
-
-Hier is wat content geschreven
-
-Find the repository at https://github.com/viktorrenkema/git-sync-playground
-
-![Mooie image](https://images.unsplash.com/photo-1633532482123-e068c151963a?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxzeW5jaHJvbml6ZXxlbnwwfHx8fDE2ODk2NjU4MTZ8MA&ixlib=rb-4.0.3&q=85)
-
-<figure><img src=".gitbook/assets/green-gradient.png" alt=""><figcaption></figcaption></figure>
-
-## Here's a changelog below
+# Product updates
 
 {% updates format="full" %}
 {% update date="2026-01-05" %}
