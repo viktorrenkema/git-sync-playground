@@ -101,3 +101,4 @@ We’ve added more ways to provide contextual information for your visitors, as 
 - Fix an issue where focus would be trapped in a popover when selecting math equations.
 - Fix an issue where diff view would incorrectly show that text had changed if the number of words in the paragraph had changed.
   {% endupdate %}
+  {% endupdates %}
