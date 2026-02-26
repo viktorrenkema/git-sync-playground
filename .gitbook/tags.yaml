@@ -1,0 +1,15 @@
+- tag: beta
+  label: Beta
+  emoji: 🎉
+- tag: new
+  label: New
+  icon: sparkle
+- tag: deprecated
+  label: Deprecated
+  emoji: ⚠️
+- tag: stable
+  label: Stable
+  icon: check-circle
+- tag: experimental
+  label: Experimental
+  emoji: 🧪
