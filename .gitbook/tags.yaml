@@ -1,3 +1,6 @@
+- tag: nieuwe-tag
+  label: nieuwe tag
+  icon: asterisk
 - tag: beta
   label: Beta
   emoji: 🎉
@@ -13,3 +16,6 @@
 - tag: experimental
   label: Experimental
   emoji: 🧪
+- tag: another-new-tag
+  label: another new tag
+  icon: triangle-exclamation
